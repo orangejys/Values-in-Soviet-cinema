@@ -10,7 +10,6 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Токен бота (ЗАМЕНИТЕ НА ВАШ ТОКЕН)
 BOT_TOKEN = "8156723328:AAF4NgfUZHUvfszZMZ28WBU_9pea1ZYRTz8"
 
 # База данных фильмов
